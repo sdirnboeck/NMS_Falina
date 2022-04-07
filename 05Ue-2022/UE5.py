@@ -34,3 +34,4 @@ F = np.concatenate(([1], F, [0]))
 print(TA(off, diag, F))
 plt.plot(TA(off, diag, F))
 plt.show()
+"Done"
